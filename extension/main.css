@@ -1,0 +1,48 @@
+.display{
+    font-family: "Comic Sans MS";
+    font-size: 12;
+    font-weight: bold;
+    float: center;
+    display: inline-block;
+}
+.borrar{
+    float: right;
+    display: inline-block;
+}
+.container{
+    width: 250px;
+    height: 250px;
+}
+.calcular{
+    float: right;
+}
+body div table{
+    border: 1px;
+    border-style: solid;
+}
+body div table tr{
+    border: 1px;
+    border-style: solid;
+}
+body div table tr td{
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+    width: 50px;
+    float: center;
+    text-align: center;
+    height: 50px;
+    border: 1px;
+    border-style: solid;
+}
+body div table tr td button {
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+    width: 50px;
+    float: center;
+    text-align: center;
+    height: 50px;
+    border: 1px;
+    border-style: solid;
+}
